@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Chickens>
+  <Chicken ID="1">
+    <BreedName>Ameraucana</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Light Blue</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Fun</Personality>
+  </Chicken>
+  <Chicken ID="2">
+    <BreedName>Ancona</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Excellent</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active, avoids human contact</Personality>
+  </Chicken>
+  <Chicken ID="3">
+    <BreedName>Andalusian</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Small, active</Personality>
+  </Chicken>
+  <Chicken ID="4">
+    <BreedName>Antwerp Belgian Bantam</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>Cream or Tinted</EggColor>
+    <EggSize>Tiny (bantam)</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Sweet</Personality>
+  </Chicken>
+  <Chicken ID="5">
+    <BreedName>Appenzeller Spitzhauben</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active, alert, like to roost in trees, good foragers</Personality>
+  </Chicken>
+  <Chicken ID="6">
+    <BreedName>Araucana</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Light Blue</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Unknown</Personality>
+  </Chicken>
+  <Chicken ID="7">
+    <BreedName>Aseel</BreedName>
+    <Purpose>Ornamental
+</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Cream or Tinted</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Intelligent. Cocks should be kept separate from other cocks.</Personality>
+  </Chicken>
+  <Chicken ID="8">
+    <BreedName>Australorp</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Excellent</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Sweet and shy</Personality>
+  </Chicken>
+  <Chicken ID="9">
+    <BreedName>Barnevelder</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Lively, active and friendly</Personality>
+  </Chicken>
+  <Chicken ID="10">
+    <BreedName>Belgian Bearded d'Uccle Bantam</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Tiny (bantam)</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Sweet</Personality>
+  </Chicken>
+  <Chicken ID="11">
+    <BreedName>
+Booted Bantam</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Tiny (bantam)</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Sweet</Personality>
+  </Chicken>
+  <Chicken ID="12">
+    <BreedName>Brahma</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Quiet and tame</Personality>
+  </Chicken>
+  <Chicken ID="13">
+    <BreedName>Buckeye</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Good foragers, good hunters, docile</Personality>
+  </Chicken>
+  <Chicken ID="14">
+    <BreedName>Campine</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active, alert, intelligent</Personality>
+  </Chicken>
+  <Chicken ID="15">
+    <BreedName>Catalana</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active, love to forage</Personality>
+  </Chicken>
+  <Chicken ID="16">
+    <BreedName>Chantecler</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Friendly, quiet, well-mannered</Personality>
+  </Chicken>
+  <Chicken ID="17">
+    <BreedName>Cochin</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Peaceful, friendly, easily handled</Personality>
+  </Chicken>
+  <Chicken ID="18">
+    <BreedName>Cornish</BreedName>
+    <Purpose>Meat</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Light Brown</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Loud and active</Personality>
+  </Chicken>
+  <Chicken ID="19">
+    <BreedName>Crevecoeur</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>White </EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Very active, need lots of exercise</Personality>
+  </Chicken>
+  <Chicken ID="20">
+    <BreedName>Cubalaya</BreedName>
+    <Purpose>Meat</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Male Cubalayas are aggressive toward other males</Personality>
+  </Chicken>
+  <Chicken ID="21">
+    <BreedName>Delaware</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Quiet, friendly</Personality>
+  </Chicken>
+  <Chicken ID="22">
+    <BreedName>Dominique</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Calm and nurturing</Personality>
+  </Chicken>
+  <Chicken ID="23">
+    <BreedName>Dorking</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Gentle and shy</Personality>
+  </Chicken>
+  <Chicken ID="24">
+    <BreedName>Easter Eggers</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Green/Blue/Pink/Multi</EggColor>
+    <EggSize>Extra Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Fun</Personality>
+  </Chicken>
+  <Chicken ID="25">
+    <BreedName>Faverolles</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Light Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Quirky, loner, submissive</Personality>
+  </Chicken>
+  <Chicken ID="26">
+    <BreedName>Fayoumi</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active, early maturing, flighty, aggressive </Personality>
+  </Chicken>
+  <Chicken ID="27">
+    <BreedName>Hamburg</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active, alert, flighty.</Personality>
+  </Chicken>
+  <Chicken ID="28">
+    <BreedName>Holland</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Cheerful</Personality>
+  </Chicken>
+  <Chicken ID="29">
+    <BreedName>Houdan</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Sweet and very easily handled.</Personality>
+  </Chicken>
+  <Chicken ID="30">
+    <BreedName>Japanese Bantam</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Tiny (bantam)</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Fun to have around, easily tamed</Personality>
+  </Chicken>
+  <Chicken ID="31">
+    <BreedName>Java</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Calm, easily handled, docile</Personality>
+  </Chicken>
+  <Chicken ID="32">
+    <BreedName>Jersey Giant</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Extra Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Docile and easygoing</Personality>
+  </Chicken>
+  <Chicken ID="33">
+    <BreedName>La Fleche</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Wild, untamed</Personality>
+  </Chicken>
+  <Chicken ID="34">
+    <BreedName>Lakenvelder</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Type A</Personality>
+  </Chicken>
+  <Chicken ID="35">
+    <BreedName>Langshan</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Calm and self-possessed</Personality>
+  </Chicken>
+  <Chicken ID="36">
+    <BreedName>Legbar</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Light Blue</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Easily handled, great forager, thrives in a free range situation</Personality>
+  </Chicken>
+  <Chicken ID="37">
+    <BreedName>Leghorn (Non-White)</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active and intelligent</Personality>
+  </Chicken>
+  <Chicken ID="38">
+    <BreedName>Leghorn (White)</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Extra Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active and intelligent</Personality>
+  </Chicken>
+  <Chicken ID="39">
+    <BreedName>Malay</BreedName>
+    <Purpose>Meat</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Light Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Unknown</Personality>
+  </Chicken>
+  <Chicken ID="40">
+    <BreedName>Marans</BreedName>
+    <Purpose>Egg-laying </Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Chocolate</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Varies</Personality>
+  </Chicken>
+  <Chicken ID="41">
+    <BreedName>Minorca</BreedName>
+    <Purpose>Egg-laying </Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Extra Large</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Type A</Personality>
+  </Chicken>
+  <Chicken ID="42">
+    <BreedName>Modern Game</BreedName>
+    <Purpose>Game</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Curious and alert, friendly, quite active</Personality>
+  </Chicken>
+  <Chicken ID="43">
+    <BreedName>Naked Neck (Turken)</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Light Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Easygoing and easily tamed</Personality>
+  </Chicken>
+  <Chicken ID="44">
+    <BreedName>New Hampshire Red</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Varies individually</Personality>
+  </Chicken>
+  <Chicken ID="45">
+    <BreedName>Old English Game</BreedName>
+    <Purpose>Game</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Aggressive, self-sufficient, noisy</Personality>
+  </Chicken>
+  <Chicken ID="46">
+    <BreedName>Orpington</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Calm and patient</Personality>
+  </Chicken>
+  <Chicken ID="47">
+    <BreedName>Penedesenca</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Chocolate</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Active, avoids human contact</Personality>
+  </Chicken>
+  <Chicken ID="48">
+    <BreedName>Phoenix</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Not friendly</Personality>
+  </Chicken>
+  <Chicken ID="49">
+    <BreedName>Plymouth Rock</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Smart, plucky and docile</Personality>
+  </Chicken>
+  <Chicken ID="50">
+    <BreedName>Polish</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Tiny (bantam)</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Friendly, quiet</Personality>
+  </Chicken>
+  <Chicken ID="51">
+    <BreedName>Redcap</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Unknown</Personality>
+  </Chicken>
+  <Chicken ID="52">
+    <BreedName>Rhode Island</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Excellent</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Extra Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Generally easygoing</Personality>
+  </Chicken>
+  <Chicken ID="53">
+    <BreedName>Rosecomb Bantam</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Tiny (bantam)</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Likes to fly!</Personality>
+  </Chicken>
+  <Chicken ID="54">
+    <BreedName>Russian Orloff</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>Light Brown</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Calm, quiet, not especially friendly</Personality>
+  </Chicken>
+  <Chicken ID="55">
+    <BreedName>Sebright Bantam</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Tiny (bantam)</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Cocky but not aggressive</Personality>
+  </Chicken>
+  <Chicken ID="56">
+    <BreedName>Sicilian Buttercup</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Fair</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Very active</Personality>
+  </Chicken>
+  <Chicken ID="57">
+    <BreedName>Silkie Bantam</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Sweet, tame, mothering.</Personality>
+  </Chicken>
+  <Chicken ID="58">
+    <BreedName>Star</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Excellent</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Rugged</Personality>
+  </Chicken>
+  <Chicken ID="59">
+    <BreedName>Sultan</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Super tame and calm</Personality>
+  </Chicken>
+  <Chicken ID="60">
+    <BreedName>Sumatra</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Medium</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Intelligent and active, usually calm but still irascible</Personality>
+  </Chicken>
+  <Chicken ID="61">
+    <BreedName>Sussex</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Light Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Confident, curious and mellow</Personality>
+  </Chicken>
+  <Chicken ID="62">
+    <BreedName>Welsummer</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Chocolate</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Intelligent and friendly</Personality>
+  </Chicken>
+  <Chicken ID="63">
+    <BreedName>White Faced Black Spanish</BreedName>
+    <Purpose>Egg-laying</Purpose>
+    <EggLaying>Good</EggLaying>
+    <EggColor>White</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>No</VeryDocile>
+    <Personality>Wild and active</Personality>
+  </Chicken>
+  <Chicken ID="64">
+    <BreedName>Wyandotte</BreedName>
+    <Purpose>Dual</Purpose>
+    <EggLaying>Very Good</EggLaying>
+    <EggColor>Brown</EggColor>
+    <EggSize>Large</EggSize>
+    <ColdHardy>Yes</ColdHardy>
+    <Broody>Yes</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Generally easygoing with a tendency toward domination</Personality>
+  </Chicken>
+  <Chicken ID="65">
+    <BreedName>Yokohama</BreedName>
+    <Purpose>Ornamental</Purpose>
+    <EggLaying>Poor</EggLaying>
+    <EggColor>Cream or tinted</EggColor>
+    <EggSize>Small</EggSize>
+    <ColdHardy>No</ColdHardy>
+    <Broody>No</Broody>
+    <VeryDocile>Yes</VeryDocile>
+    <Personality>Docile</Personality>
+  </Chicken>
+</Chickens>
